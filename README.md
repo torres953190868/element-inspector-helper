@@ -1,5 +1,7 @@
 # Element Inspector Helper
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 A tiny browser-side element inspector for vibe coding and fast frontend debugging.
 
 It lets you hover over elements, see their selector and text preview, then click to copy the selector to your clipboard. It is designed as a lightweight development helper that can be dropped into a page without a build step.
