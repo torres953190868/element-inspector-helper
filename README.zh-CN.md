@@ -84,7 +84,7 @@ inspector.destroy();
   tag: "button",
   id: "saveButton",
   classes: ["primary", "compact"],
-  selector: "button#saveButton.primary.compact",
+  selector: "#saveButton",
   rect: DOMRect,
   text: "Save"
 }
